@@ -1,0 +1,7 @@
+# PROFILE=Default
+# Display name: Example - Personal account
+# The first comment must be: # PROFILE=<chrome profile directory name>
+# Run scripts/list-profiles.sh to discover your profile directory names.
+https://mail.google.com/mail/u/0/#inbox
+https://calendar.google.com/
+https://news.ycombinator.com/

@@ -1,0 +1,4 @@
+# PROFILE=Profile 1
+# Display name: Example - Work account
+https://github.com/
+https://linear.app/

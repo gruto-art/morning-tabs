@@ -1,0 +1,16 @@
+# Personal profile data — never commit private URLs, accounts, or runtime logs
+profiles/[0-9][0-9]-*.txt
+!profiles/01-example-*.txt
+!profiles/02-example-*.txt
+
+# Runtime
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
