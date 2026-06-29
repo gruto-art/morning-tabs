@@ -13,8 +13,6 @@ want to open. You double-click an icon on your Desktop. You click **"Open &
 Next"**. Each click opens the next link **in the correct Chrome profile**.
 That's the whole thing.
 
-![Morning Tabs UI](docs/screenshot.png)
-
 ## Why this exists
 
 Chrome's "open all bookmarks" opens everything at once, in one profile. Browser
